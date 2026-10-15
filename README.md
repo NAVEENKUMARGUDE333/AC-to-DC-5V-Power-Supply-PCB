@@ -38,7 +38,7 @@ This project is part of my **30-Day PCB Design Challenge**, where I am improving
 - `schematic.png` – Circuit schematic
 - `pcb_layout.png` – PCB layout and routing
 - `pcb_3d.png` – 3D PCB view
-- `gerber/` – Manufacturing files (if exported)
+- `gerber/` – Manufacturing files
 
 ## 🎯 Learning Outcomes
 
